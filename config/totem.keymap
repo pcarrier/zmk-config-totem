@@ -29,10 +29,10 @@
         FN1 {
             label = "FN1";
             bindings = <
-           &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans    &kp PG_DN  &kp PG_UP  &trans   &kp MINUS  &kp EQUAL
-           &kp N1    &kp N2    &kp N3  &kp N4     &kp N5    &kp N6     &kp N7     &kp N8   &kp N9     &kp N0
-&kp GRAVE  &trans    &trans    &trans  &trans     &trans    &kp LBKT   &kp RBKT   &kp LT   &kp GT     &kp QMARK  &kp DQT
-                               &trans  &trans     &trans    &mo 3      &kp ENTER  &kp DEL
+           &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &kp INS    &kp PG_DN  &kp PG_UP  &kp PSCRN  &kp MINUS  &kp EQUAL
+           &kp N1    &kp N2    &kp N3  &kp N4     &kp N5     &kp N6     &kp N7     &kp N8     &kp N9     &kp N0
+&kp GRAVE  &trans    &trans    &trans  &trans     &trans     &kp LBKT   &kp RBKT   &kp LT     &kp GT     &kp QMARK  &kp DQT
+                               &trans  &trans     &trans     &mo 3      &kp ENTER  &kp DEL
             >;
         };
 
